@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "login": "zulip",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4921959?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "internetarchive",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "creativecommons",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3248958?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "CircuitVerse",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42944450?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "scorelab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5285159?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}

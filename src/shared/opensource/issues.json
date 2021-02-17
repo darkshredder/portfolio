@@ -1,0 +1,239 @@
+{
+  "closed": 8,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU4MDgyOTk0NTk=",
+      "closed": false,
+      "title": "Refactor docker-compose.yml and Dockerfile",
+      "createdAt": "2021-02-15T08:15:00Z",
+      "url": "https://github.com/scorelab/labellab/issues/572",
+      "number": 572,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "labellab",
+        "url": "https://github.com/scorelab/labellab",
+        "owner": {
+          "login": "scorelab",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/5285159?v=4",
+          "url": "https://github.com/scorelab"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MDEzNTkyOTE=",
+      "closed": true,
+      "title": "[Web] Delete image and refresh on adding image funtionality not working",
+      "createdAt": "2021-02-04T14:55:02Z",
+      "url": "https://github.com/scorelab/labellab/issues/547",
+      "number": 547,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "labellab",
+        "url": "https://github.com/scorelab/labellab",
+        "owner": {
+          "login": "scorelab",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/5285159?v=4",
+          "url": "https://github.com/scorelab"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NjkwNDEyOTk=",
+      "closed": true,
+      "title": "Formatting exported bookmark json file",
+      "createdAt": "2020-12-16T16:07:15Z",
+      "url": "https://github.com/creativecommons/ccsearch-browser-extension/issues/318",
+      "number": 318,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ccsearch-browser-extension",
+        "url": "https://github.com/creativecommons/ccsearch-browser-extension",
+        "owner": {
+          "login": "creativecommons",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/3248958?v=4",
+          "url": "https://github.com/creativecommons"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NjQyNDg1NDY=",
+      "closed": true,
+      "title": "Formatting HTML Attribution on downloading text file",
+      "createdAt": "2020-12-12T19:28:05Z",
+      "url": "https://github.com/creativecommons/ccsearch-browser-extension/issues/316",
+      "number": 316,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/52625656?u=c496c1b6c170aabcd2454a4c249e1e045f02a241&v=4",
+            "name": "Yash Srivastava",
+            "url": "https://github.com/darkshredder"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ccsearch-browser-extension",
+        "url": "https://github.com/creativecommons/ccsearch-browser-extension",
+        "owner": {
+          "login": "creativecommons",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/3248958?v=4",
+          "url": "https://github.com/creativecommons"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NjM5MTkwOTE=",
+      "closed": false,
+      "title": "Bug: Dropdown and Items not visible in storybook",
+      "createdAt": "2020-12-12T14:52:52Z",
+      "url": "https://github.com/creativecommons/vocabulary/issues/828",
+      "number": 828,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/52625656?u=c496c1b6c170aabcd2454a4c249e1e045f02a241&v=4",
+            "name": "Yash Srivastava",
+            "url": "https://github.com/darkshredder"
+          }
+        ]
+      },
+      "repository": {
+        "name": "vocabulary",
+        "url": "https://github.com/creativecommons/vocabulary",
+        "owner": {
+          "login": "creativecommons",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/3248958?v=4",
+          "url": "https://github.com/creativecommons"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1Nzg5NzQwODQ=",
+      "closed": true,
+      "title": "Replacing prompt with popup dialog box for new circuit",
+      "createdAt": "2020-03-11T02:49:36Z",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/1133",
+      "number": 1133,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "CircuitVerse",
+        "url": "https://github.com/CircuitVerse/CircuitVerse",
+        "owner": {
+          "login": "CircuitVerse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42944450?v=4",
+          "url": "https://github.com/CircuitVerse"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzgzNDc4Mzg=",
+      "closed": true,
+      "title": "Footer broken in group discription page when no assignment",
+      "createdAt": "2020-03-10T05:32:37Z",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/1100",
+      "number": 1100,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "CircuitVerse",
+        "url": "https://github.com/CircuitVerse/CircuitVerse",
+        "owner": {
+          "login": "CircuitVerse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42944450?v=4",
+          "url": "https://github.com/CircuitVerse"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1Nzc2NzQ4MTQ=",
+      "closed": true,
+      "title": "Add Cursor on simulator circuit elements",
+      "createdAt": "2020-03-09T05:49:45Z",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/1088",
+      "number": 1088,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "CircuitVerse",
+        "url": "https://github.com/CircuitVerse/CircuitVerse",
+        "owner": {
+          "login": "CircuitVerse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42944450?v=4",
+          "url": "https://github.com/CircuitVerse"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzcwNzYwMDc=",
+      "closed": true,
+      "title": "Social Media links looks dull without hover effects in Login page",
+      "createdAt": "2020-03-06T17:31:56Z",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/1038",
+      "number": 1038,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "CircuitVerse",
+        "url": "https://github.com/CircuitVerse/CircuitVerse",
+        "owner": {
+          "login": "CircuitVerse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42944450?v=4",
+          "url": "https://github.com/CircuitVerse"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzQ4Njc0NjM=",
+      "closed": true,
+      "title": "Adding Back button to Edit Profile Page",
+      "createdAt": "2020-03-03T18:46:52Z",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/1009",
+      "number": 1009,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "CircuitVerse",
+        "url": "https://github.com/CircuitVerse/CircuitVerse",
+        "owner": {
+          "login": "CircuitVerse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42944450?v=4",
+          "url": "https://github.com/CircuitVerse"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzE3MzM2MDY=",
+      "closed": false,
+      "title": "Add Dark and Light mode feature",
+      "createdAt": "2020-02-26T23:58:46Z",
+      "url": "https://github.com/CircuitVerse/CircuitVerse/issues/958",
+      "number": 958,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "CircuitVerse",
+        "url": "https://github.com/CircuitVerse/CircuitVerse",
+        "owner": {
+          "login": "CircuitVerse",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42944450?v=4",
+          "url": "https://github.com/CircuitVerse"
+        }
+      }
+    }
+  ],
+  "open": 3,
+  "totalCount": 11
+}
