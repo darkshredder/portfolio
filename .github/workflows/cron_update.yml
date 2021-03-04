@@ -23,9 +23,9 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm ci
     - run: node git_data_fetcher.js
-    - run: npm run build
       env:
         GITHUB_SECRET_KEY_PORTFOLIO: ${{ secrets.PORTFOLIO_GITHUB_SECRET_KEY }}
+    - run: npm run build
     - name: Deploy production to Netlify
       uses: South-Paw/action-netlify-deploy@v1.2.0
       with:
