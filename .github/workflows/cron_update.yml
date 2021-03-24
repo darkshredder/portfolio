@@ -25,9 +25,8 @@ jobs:
     - run: node git_data_fetcher.js
       env:
         PORTFOLIO_GITHUB_SECRET_KEY: ${{ secrets.PORTFOLIO_GITHUB_SECRET_KEY }}
+        REACT_APP_GOOGLE_ANALYTICS_TRACKING_ID: ${{ secrets.GOOGLE_ANALYTICS_TRACKING_ID }}
     - run: npm run build
-      env:
-        GOOGLE_ANALYTICS_TRACKING_ID: ${{ secrets.GOOGLE_ANALYTICS_TRACKING_ID }}
     - name: Deploy production to Netlify
       uses: South-Paw/action-netlify-deploy@v1.2.0
       with:

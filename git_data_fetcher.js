@@ -296,3 +296,12 @@ fetch(baseUrl, {
   .catch((error) =>
     console.log("Error occured in pinned projects 2", JSON.stringify(error))
   );
+fs.writeFile(
+  ".env",
+  `REACT_APP_GOOGLE_ANALYTICS_TRACKING_ID=${process.env.PORTFOLIO_GITHUB_SECRET_KEY}`,
+  function (err) {
+    if (err) {
+      console.log(err);
+    }
+  }
+);
