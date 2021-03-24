@@ -8,7 +8,7 @@ import Opensource from "../pages/opensource/Opensource";
 import Contact from "../pages/contact/ContactComponent";
 import Projects from "../pages/projects/Projects";
 import { settings } from "../portfolio.js";
-
+import GA from "../GoogleAnalytics";
 export default class Main extends Component {
   render() {
     const theme = this.props.theme;
@@ -17,6 +17,7 @@ export default class Main extends Component {
       return (
         <div>
           <HashRouter basename="/">
+            {GA.init() && <GA.RouteTracker />}
             <Switch>
               <Route
                 path="/"
@@ -74,6 +75,7 @@ export default class Main extends Component {
       return (
         <div>
           <HashRouter basename="/">
+            {GA.init() && <GA.RouteTracker />}
             <Switch>
               <Route
                 path="/"
