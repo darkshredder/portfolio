@@ -298,7 +298,7 @@ fetch(baseUrl, {
   );
 fs.writeFile(
   ".env",
-  `REACT_APP_GOOGLE_ANALYTICS_TRACKING_ID=${process.env.PORTFOLIO_GITHUB_SECRET_KEY}`,
+  `REACT_APP_GOOGLE_ANALYTICS_TRACKING_ID=${process.env.REACT_APP_GOOGLE_ANALYTICS_TRACKING_ID}`,
   function (err) {
     if (err) {
       console.log(err);
