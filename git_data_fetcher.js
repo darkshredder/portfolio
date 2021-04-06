@@ -144,9 +144,15 @@ fetch(baseUrl, {
     var open = 0;
     var closed = 0;
     var merged = 0;
+    var removed = 0;
     for (var i = 0; i < cropped["data"].length; i++) {
-      if (cropped["data"][i]["state"] === "OPEN") open++;
-      else if (cropped["data"][i]["state"] === "MERGED") merged++;
+      if (cropped["data"][i-removed]["url"].includes(openSource.githubUserName)) {
+        cropped["data"].splice(i - removed, 1); 
+        removed++
+        continue;
+      }
+      if (cropped["data"][i-removed]["state"] === "OPEN") open++;
+      else if (cropped["data"][i-removed]["state"] === "MERGED") merged++;
       else closed++;
     }
 
