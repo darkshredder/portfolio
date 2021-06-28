@@ -38,4 +38,4 @@ jobs:
         build-dir: './build'
         comment-on-commit: true
         draft: true
-        comment-on-commit: true
+        comment-on-pull-request: true
