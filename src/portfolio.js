@@ -275,7 +275,7 @@ const experience = {
   title: "Experience",
   subtitle: "",
   description:
-    "I have worked with some evolving startups as Developer mostly which are AI powered.I love working at Startup and contributing to world and that is why I am also involved with many open source communities.",
+    "I have worked with some evolving startups as Developer mostly which are AI powered.I love working at Startup and contributing to world and that's why I am also involved with many open source communities.",
   header_image_path: "experience.svg",
   sections: [
     {
